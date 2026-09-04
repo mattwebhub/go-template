@@ -1,4 +1,4 @@
-# Micro1 Go API template
+#Go API template
 
 A production-shaped Go HTTP API starter optimized for fast human and coding-agent feedback. It uses the standard library HTTP stack, explicit composition, strict environment validation, stable JSON envelopes, bounded request bodies, structured logs, readiness registration, and graceful reverse-order shutdown.
 
